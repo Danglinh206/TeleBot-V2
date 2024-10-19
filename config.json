@@ -1,6 +1,6 @@
 {
   "botToken": "7565812589:AAHZhGB4joz1qn55b_fQi4XjcBudArVDEw0",
-  "mongoURI": "MOngoDB_URI",
+  "mongoURI": "mongodb+srv://userg4185:zWfR3c1ez5zpAUj0@cluster0.mfbe2.mongodb.net/botbee?retryWrites=true&w=majority&appName=Cluster0p",
   "note": "Make sure to add your bot token and mongoURI from MongoDB and also respect author for their hardwork for this project by not changing code unnecessarily.",
   "prefix": "/",
   "adminId": [
